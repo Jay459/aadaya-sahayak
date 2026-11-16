@@ -7,7 +7,7 @@ A Telugu-first income-certificate review workspace for village and mandal revenu
 | Assessment access | Details                                                                |
 | ----------------- | ---------------------------------------------------------------------- |
 | GitHub repository | [Jay459/aadaya-sahayak](https://github.com/Jay459/aadaya-sahayak)      |
-| Live application  | Not deployed yet; deployment is a separate next step                   |
+| Live application  | https://aadaya-sahayak.onrender.com/                   |
 | Interface         | Telugu, with Indian currency formatting and Asia/Kolkata timestamps    |
 | Data              | 12 fictional applications in the initial seed; no real citizen records |
 
